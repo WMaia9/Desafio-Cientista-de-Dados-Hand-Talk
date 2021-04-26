@@ -3,6 +3,6 @@ VAE para imagens
 
 Desafio Ciência de Dados Hand Talk
 
-Neste desafio foi utilizado o método de Variational Auto-Encoders para treinar imagens de cachorros. O Dataset disponibilizado pelo link
+Neste desafio foi utilizado o método de Variational Auto-Encoders para treinar imagens de cachorros. O Dataset disponibilizado pelo link: https://www.kaggle.com/c/dog-breed-identification/data
 
 	
