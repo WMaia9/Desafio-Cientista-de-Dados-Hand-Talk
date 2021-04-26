@@ -19,5 +19,4 @@ Instalação
 * Clona esse repositório no seu computador.
 * Execute o `gesto.py`.
 * `HandTrackingModule.py` é uma biblioteca para o reconhecimento dos gestos, tenha certeza que ele estaja na mesma pasta do `gesto.py`.
-* Se o programa rodar mas a webcan não for ativada, mude o valor de 0 para 1 no `HandTrackingModule.py` no def main()  `cap =cv2.VideoCapture(1)` 
 	
