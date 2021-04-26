@@ -8,8 +8,8 @@ from ctypes import cast, POINTER
 #################################
 wCam, hCam = 640, 480
 #################################
-
-cap = cv2.VideoCapture(1)
+x = int(input("Entre com o valor da saída da sua webcam (0 ou 1): "))
+cap = cv2.VideoCapture(x)
 cap.set(3, wCam)
 cap.set(4, hCam)
 pTime = 0
